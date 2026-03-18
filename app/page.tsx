@@ -282,10 +282,7 @@ export default function Home() {
                 </li>
                 <li>GitHub: SchultzKyle001</li>
               </ul>
-            </div>
-            <div className="panel">
-              
-            </div>
+          
           </div>
         </section>
 
