@@ -266,27 +266,40 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="section" id="contact">
-          <h2 className="section-title">Contact</h2>
-            <div className="panel">
-              <h3>Professional Contact Information</h3>
-              <ul className="tight">
-                <li>Name: Kyle Schultz</li>
-                <li>Email: Schultz.Kyle001@gmail.com</li>
-                <li>
-                  LinkedIn:{" "}
-                  <a href="https://www.linkedin.com/in/kyle-schultz-9548543b1/" target="_blank" rel="noreferrer">
-                    https://www.linkedin.com/in/kyle-schultz-9548543b1/
-                  </a>
-                <li>
-                Github:
-                    <a href="https://github.com/SchultzKyle001" target="_blank">
-                      https://github.com/SchultzKyle001
-                    </a>
-                </li>
-          
-          </div>
-        </section>
+<section className="section" id="contact">
+  <h2 className="section-title">Contact</h2>
+
+  <div className="panel">
+    <h3>Professional Contact Information</h3>
+
+    <ul className="tight">
+      <li>Name: Kyle Schultz</li>
+      <li>Email: Schultz.Kyle001@gmail.com</li>
+
+      <li>
+        LinkedIn:{" "}
+        <a
+          href="https://www.linkedin.com/in/kyle-schultz-9548543b1/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          https://www.linkedin.com/in/kyle-schultz-9548543b1/
+        </a>
+      </li>
+
+      <li>
+        GitHub:{" "}
+        <a
+          href="https://github.com/SchultzKyle001"
+          target="_blank"
+          rel="noreferrer"
+        >
+          https://github.com/SchultzKyle001
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>
 
         <footer className="footer">
           <p>Built as a static portfolio site for GitHub Pages hosting.</p>
