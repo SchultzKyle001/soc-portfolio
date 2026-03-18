@@ -124,10 +124,10 @@ export default function Home() {
             <div className="panel">
               <h3>Documented IP Snapshot</h3>
               <ul className="tight">
-                <li>EP1: 192.168.222.129</li>
-                <li>Wazuh SIEM: 192.168.222.131</li>
-                <li>Kali: 192.168.222.133</li>
-                <li>EP2 / secondary endpoint: 192.168.222.134</li>
+                <li>EP1: 192.168.***.***</li>
+                <li>Wazuh SIEM: 192.168.***.***</li>
+                <li>Kali: 192.168.***.***</li>
+                <li>EP2 / secondary endpoint: 192.168.***.***</li>
               </ul>
               <p style={{ marginTop: "12px" }}>
                 This snapshot is included to show that my training is based on a
