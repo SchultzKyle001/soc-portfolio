@@ -284,13 +284,7 @@ export default function Home() {
               </ul>
             </div>
             <div className="panel">
-              <h3>Best Use of This Site</h3>
-              <p>
-                Use this as a portfolio link on LinkedIn, job applications, and
-                your resume. It is designed to quickly show employers that you
-                are not only studying cybersecurity, but actively building and
-                documenting analyst-style work.
-              </p>
+              
             </div>
           </div>
         </section>
