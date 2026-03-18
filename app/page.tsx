@@ -268,7 +268,6 @@ export default function Home() {
 
         <section className="section" id="contact">
           <h2 className="section-title">Contact</h2>
-          <div className="grid-2">
             <div className="panel">
               <h3>Professional Contact Information</h3>
               <ul className="tight">
@@ -280,11 +279,11 @@ export default function Home() {
                     https://www.linkedin.com/in/kyle-schultz-9548543b1/
                   </a>
                 <li>
-Github:
-<a href="https://github.com/SchultzKyle001" target="_blank">
-https://github.com/SchultzKyle001
-</a>
-</li>
+                Github:
+                    <a href="https://github.com/SchultzKyle001" target="_blank">
+                      https://github.com/SchultzKyle001
+                    </a>
+                </li>
           
           </div>
         </section>
